@@ -69,5 +69,5 @@ Click [here](CHANGELOG.md) to see full changelog.
 
 You can self-host the My-PyChess online server. Read more about it [here](onlinehowto.txt).
 
-edit statemnetS
+edited
 
